@@ -1,3 +1,7 @@
+#### Fluxo da arquitetura Flux para frontend
+
+![Fluxo da arquitetura Flux para frontend](arquiteturaFlux.png)
+
 - npm install
 
 #### Servidor de Teste
